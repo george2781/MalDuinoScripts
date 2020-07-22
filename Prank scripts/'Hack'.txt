@@ -1,0 +1,18 @@
+REM Runs cmd, makes color green and runs tree
+DELAY 200
+GUI r
+DELAY 200
+STRING cmd
+ENTER
+DELAY 200
+STRING @echo off
+ENTER
+DELAY 200
+STRING cd C:/
+ENTER
+DELAY 50
+STRING color a
+ENTER
+DELAY 50
+STRING tree
+ENTER
