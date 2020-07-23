@@ -1,4 +1,4 @@
-REM Screenshots screen after minimising all applications, enjoy!
+REM Screenshots screen after minimising all applications, then sets it as the background and hides the taskbar, enjoy! enjoy!
 DELAY 2000
 GUI d
 DELAY 1000
